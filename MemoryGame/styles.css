@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: aqua;
+    align-items: center;
+}
+
+.grid{
+    align-self: auto;
+
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+   
+    
+    width: 25%;
+    height: 25%;
+
+}
